@@ -1,0 +1,11 @@
+package com.company;
+
+public class Point {
+    public final double x;
+    public final double y;
+    Point(double x,double y)
+    {
+        this.x = y;
+        this.y = y;
+    }
+}
