@@ -56,6 +56,7 @@ public class Segment {
 
         //return new Segment(point,new Point(x1,y1));
         return new Segment[]{new Segment(point,new Point(x1,y2)),new Segment(point, new Point(x2,y2))};
+
     }
 
 
